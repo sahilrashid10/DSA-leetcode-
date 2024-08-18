@@ -13,9 +13,6 @@ public:
         int number = 0;
         for(int i=0; i<s.length(); i++){
 
-            if(s[i] == '\0')
-            break;
-
             if(mp[s[i]] < mp[s[i+1]]){
                 number += mp[s[i]];
                 number -= 2*mp[s[i]];
