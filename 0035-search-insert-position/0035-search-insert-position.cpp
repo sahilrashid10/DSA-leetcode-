@@ -1,14 +1,19 @@
 class Solution {
 public:
-    int searchInsert(vector<int>& nums, int target) {
-        int l,r,m;
-        l=0;
-        r=nums.size()-1;
+    int searchInsert(vector<int>& nums, int k) {
+        int l=0;
+        int r=nums.size()-1;
+        int c=nums.size(); //c = ceil
         while(l<=r){
-            m = (r+l)/2;
-            if(nums[m]==target) return m;
-            (nums[m]<target)?(l=m+1):(r=m-1);
-        }
-        return l;
+            int m=(l+r)/2;
+            if(nums[m]==k)
+                return m;
+            if(nums[m]>k){
+                c = m;
+                r = m-1;
+                }
+            else l = m+1;
+            }
+        return c;
     }
 };
