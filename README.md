@@ -31,4 +31,12 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Array
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0238-product-of-array-except-self) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
