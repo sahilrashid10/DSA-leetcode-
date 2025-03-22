@@ -1,23 +1,18 @@
 class Solution {
 public:
-    int mini=INT_MAX;
-    void modifiedBinarySearch(vector<int>& nums, int s, int e){
+    int findMin(vector<int>& nums) {
+        int s = 0, e = nums.size()-1, mini = INT_MAX;
         while(s<=e){
             int m = (s+e)/2;
-            //check if left part is sorted
-            if(nums[m]>=nums[s]){
+
+            if(nums[s] <= nums[m]){
                 mini = min(mini, nums[s]);
-                s = m+1;
-            }
-            // by default when left isn't sorted right will be
-            else{
+                s = m + 1;
+            }else{
                 mini = min(mini, nums[m]);
-                e = m-1;
+                e = m - 1;
             }
         }
-    }
-    int findMin(vector<int>& nums) {
-        modifiedBinarySearch(nums, 0, nums.size()-1);
         return mini;
     }
 };
