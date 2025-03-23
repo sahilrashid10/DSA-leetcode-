@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
