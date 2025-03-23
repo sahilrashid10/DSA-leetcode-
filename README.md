@@ -39,6 +39,7 @@
 | [0011-container-with-most-water](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0238-product-of-array-except-self) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
 ## Stack
@@ -109,6 +112,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
