@@ -7,16 +7,19 @@
 | [0130-surrounded-regions](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0801-is-graph-bipartite) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Heap (Priority Queue)
 |  |
@@ -139,4 +142,5 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0130-surrounded-regions) |
+| [0801-is-graph-bipartite](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
