@@ -1,24 +1,22 @@
 class Solution {
 public:
-
     vector<string>ans;
     string temp;
     void solve(vector<string>&chz, int idx){
         if(idx >= chz.size()){
             ans.push_back(temp);
             return;
-            }
+        }
         for(int i=0; i<chz[idx].size(); i++){
-            temp += chz[idx][i];
+            temp.push_back(chz[idx][i]);
             solve(chz, idx+1);
             temp.pop_back();
         }
     }
-
     vector<string> letterCombinations(string digits) {
-        if(digits.empty()) return {};
-        vector<string>chz;
+        if(digits.size() == 0) return ans;
 
+        vector<string> chz;
         for(int i=0; i<digits.size(); i++){
             if(digits[i]=='2') chz.push_back("abc");
             if(digits[i]=='3') chz.push_back("def");
