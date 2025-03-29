@@ -1,17 +1,33 @@
-//using dp, bottom up
+// constant space with dp-bottom up
 class Solution {
 public:
     int fib(int n) {
-        if(n <= 1) return n;
-        
-        vector<int> dp(n+1, -1);
-        dp[0] = 0, dp[1] = 1;
-        for(int i=2; i<=n; i++){
-            dp[i] = dp[i-1] + dp[i-2];
+        if(n<=1) return n;
+
+        int a = 0, b = 1;
+        int x = 0;
+        for(int i=2; i<=n; i++)
+        {   x = a + b;
+            a = b, b = x;
         }
-        return dp[n];
+        return x;
     }
 };
+//using dp, bottom up
+// class Solution {
+// public:
+//     int fib(int n) {
+
+//         if(n <= 1) return n;
+
+//         vector<int> dp(n+1, -1);
+//         dp[0] = 0, dp[1] = 1;
+//         for(int i=2; i<=n; i++){
+//             dp[i] = dp[i-1] + dp[i-2];
+//         }
+//         return dp[n];
+//     }
+// };
 // using dp-top down, recursion
 // class Solution {
 // public:
