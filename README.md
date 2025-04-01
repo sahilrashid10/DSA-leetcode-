@@ -66,6 +66,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1013-fibonacci-number) |
+| [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0238-product-of-array-except-self) |
+| [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 ## Divide and Conquer
 |  |
 | ------- |
