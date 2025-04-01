@@ -1,41 +1,36 @@
+// MEMOIZED APPROACH
 class Solution {
 public:
-    int N, M, K;
-    int MOD = 1e9+7;
-    int t[51][51][101];
-    
-    int solve(int idx, int searchCost, int maxSoFar) {
-        if(idx == N) {
-            if(searchCost == K)
-                return 1;
+
+    int dp[50][101][51];
+    int mod = 1e9+7;
+    int solve(int n, int m, int k, int idx, int maxi, int op){
+
+        //base case
+        if(idx == n){
+            if(op == k) return 1;
             return 0;
         }
-        
-        if(t[idx][searchCost][maxSoFar] != -1) {
-            return t[idx][searchCost][maxSoFar];
-        }
-        
+
+        if(maxi != -1 && dp[idx][maxi][op] != -1) return dp[idx][maxi][op];
+
         int result = 0;
-        
-        for(int i = 1; i <= M; i++) {
-            
-            if(i > maxSoFar) {
-                result = (result + solve(idx+1, searchCost+1, i)) % MOD;
-            } else {
-                result = (result + solve(idx+1, searchCost, maxSoFar)) % MOD;
-            }
-            
+        for(int i=1; i<=m; i++){
+            if(maxi < i){
+                result = (result + solve(n, m, k, idx+1, i, op+1))%mod;
+            }else
+                result = (result + solve(n, m, k, idx+1, maxi, op))%mod;
         }
-        
-        return t[idx][searchCost][maxSoFar] = result % MOD;
-        
+
+        if(maxi != -1){
+            dp[idx][maxi][op] = result;
+        }
+        return result;
+
     }
-    
     int numOfArrays(int n, int m, int k) {
-        N = n;
-        M = m;
-        K = k;
-        memset(t, -1, sizeof(t));
-        return solve(0, 0, 0);
+        memset(dp, -1, sizeof(dp));
+        int ans = solve(n, m, k, 0, -1, 0);
+        return ans;
     }
 };
