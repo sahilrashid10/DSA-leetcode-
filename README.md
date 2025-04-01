@@ -10,6 +10,7 @@
 | [0733-flood-fill](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0922-possible-bipartition) |
@@ -26,6 +27,7 @@
 | [0733-flood-fill](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0922-possible-bipartition) |
@@ -39,6 +41,7 @@
 | [0210-course-schedule-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0922-possible-bipartition) |
@@ -209,6 +212,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0813-all-paths-from-source-to-target](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 ## Memoization
 |  |
 | ------- |
