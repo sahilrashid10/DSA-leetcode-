@@ -1,22 +1,43 @@
-// BOTTOM UP
+//OPTIMAL APPROACH VIS: PATIENCE SORTING
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp(n, 1);
+        if(n == 1) return 1;
+        vector<int> sorted;
+        sorted.push_back(nums[0]);
 
-        int maxLen = 1;
-        for(int i=0; i<n; i++){
-            for(int j = 0; j<i; j++ ){
-                if(nums[i] > nums[j]){
-                    dp[i] = max(dp[i], dp[j]+1);
-                    maxLen = max(maxLen, dp[i]);
-                }
-            }
+        for(int i=1; i<n; i++){
+            //just bigger element found replace that in sorted
+            auto it = lower_bound(sorted.begin(), sorted.end(), nums[i]);
+            if(it != sorted.end()){
+                *it = nums[i];
+            } 
+            else
+                sorted.push_back(nums[i]);
         }
-        return maxLen;
+        return sorted.size();
     }
 };
+// BOTTOM UP
+// class Solution {
+// public:
+//     int lengthOfLIS(vector<int>& nums) {
+//         int n = nums.size();
+//         vector<int> dp(n, 1);
+
+//         int maxLen = 1;
+//         for(int i=0; i<n; i++){
+//             for(int j = 0; j<i; j++ ){
+//                 if(nums[i] > nums[j]){
+//                     dp[i] = max(dp[i], dp[j]+1);
+//                     maxLen = max(maxLen, dp[i]);
+//                 }
+//             }
+//         }
+//         return maxLen;
+//     }
+// };
 // MEMOIZATION
 //time O(n^2) space O(n^2)
 // class Solution {
