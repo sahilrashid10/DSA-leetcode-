@@ -64,6 +64,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0213-house-robber-ii) |
@@ -199,6 +200,7 @@
 | [0020-valid-parentheses](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0433-minimum-genetic-mutation) |
@@ -240,6 +242,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0131-palindrome-partitioning](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0813-all-paths-from-source-to-target](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 ## Memoization
 |  |
