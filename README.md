@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0131-palindrome-partitioning) |
@@ -219,6 +220,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0368-largest-divisible-subset) |
@@ -261,4 +263,8 @@
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2292-counting-words-with-a-given-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
