@@ -64,6 +64,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0131-palindrome-partitioning) |
@@ -99,6 +100,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -231,6 +233,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0733-flood-fill) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
