@@ -81,6 +81,7 @@
 | [1170-shortest-common-supersequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -113,6 +114,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0733-flood-fill) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0954-maximum-sum-circular-subarray) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2292-counting-words-with-a-given-prefix) |
