@@ -16,6 +16,7 @@
 | [0922-possible-bipartition](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -32,6 +33,7 @@
 | [0871-keys-and-rooms](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0922-possible-bipartition) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
@@ -194,6 +196,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0433-minimum-genetic-mutation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Stack
 |  |
 | ------- |
@@ -282,4 +285,12 @@
 |  |
 | ------- |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+## Tree
+|  |
+| ------- |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+## Counting
+|  |
+| ------- |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 <!---LeetCode Topics End-->
