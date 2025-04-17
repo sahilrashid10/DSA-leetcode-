@@ -24,6 +24,7 @@
 | [0130-surrounded-regions](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0279-perfect-squares) |
 | [0433-minimum-genetic-mutation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0433-minimum-genetic-mutation) |
 | [0733-flood-fill](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0744-network-delay-time) |
@@ -75,6 +76,7 @@
 | [0198-house-robber](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0516-longest-palindromic-subsequence) |
@@ -239,6 +241,7 @@
 | [0189-rotate-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1013-fibonacci-number) |
 ## Matrix
