@@ -234,6 +234,7 @@
 | [0062-unique-paths](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0263-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1013-fibonacci-number) |
 ## Matrix
