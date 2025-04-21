@@ -1,36 +1,55 @@
-// class Solution {
-// public:
-//     int minFallingPathSum(vector<vector<int>>& matrix) {
-        
-//     }
-// };
-
-
-
 class Solution {
 public:
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int row = matrix.size(), col = matrix[0].size();
 
-        vector<vector<int>> dp(row, vector<int>(col, INT_MAX));
+        vector<int> prevRow(col);
 
         for(int j=0; j<col; j++)
-            dp[0][j] = matrix[0][j];
+            prevRow[j] = matrix[0][j];
 
         vector<pair<int, int>> dir{{-1, -1}, {-1, 0}, {-1, 1}};
         for(int i = 1; i<row; i++){
+            vector<int>dp(col, INT_MAX);
+
             for(int j=0; j<col; j++){
-                
                 for(auto &[dx, dy]:dir){
                     int x = i + dx, y = j + dy;
                     if(x >=0 && y < col && y>=0)
-                        dp[i][j] = min(dp[i][j], dp[x][y] + matrix[i][j]);
+                        dp[j] = min(dp[j], prevRow[y] + matrix[i][j]);
                 }
             }
+            prevRow = dp;
         }
-        return *min_element(dp[row-1].begin(), dp[row-1].end());
+        return *min_element(prevRow.begin(), prevRow.end());
     }
 };
+
+
+// class Solution {
+// public:
+//     int minFallingPathSum(vector<vector<int>>& matrix) {
+//         int row = matrix.size(), col = matrix[0].size();
+
+//         vector<vector<int>> dp(row, vector<int>(col, INT_MAX));
+
+//         for(int j=0; j<col; j++)
+//             dp[0][j] = matrix[0][j];
+
+//         vector<pair<int, int>> dir{{-1, -1}, {-1, 0}, {-1, 1}};
+//         for(int i = 1; i<row; i++){
+//             for(int j=0; j<col; j++){
+                
+//                 for(auto &[dx, dy]:dir){
+//                     int x = i + dx, y = j + dy;
+//                     if(x >=0 && y < col && y>=0)
+//                         dp[i][j] = min(dp[i][j], dp[x][y] + matrix[i][j]);
+//                 }
+//             }
+//         }
+//         return *min_element(dp[row-1].begin(), dp[row-1].end());
+//     }
+// };
 
 
 
