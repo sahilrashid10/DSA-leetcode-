@@ -217,6 +217,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0433-minimum-genetic-mutation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1500-count-largest-group](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1500-count-largest-group) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Stack
 |  |
@@ -262,6 +263,7 @@
 | [0279-perfect-squares](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1013-fibonacci-number) |
+| [1500-count-largest-group](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1500-count-largest-group) |
 ## Matrix
 |  |
 | ------- |
