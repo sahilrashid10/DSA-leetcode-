@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0064-minimum-path-sum) |
@@ -111,6 +112,7 @@
 | [0015-3sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0130-surrounded-regions) |
@@ -185,6 +187,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0055-jump-game) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0646-maximum-length-of-pair-chain) |
 ## Linked List
 |  |
