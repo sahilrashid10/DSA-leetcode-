@@ -86,6 +86,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0647-palindromic-substrings) |
+| [0806-domino-and-tromino-tiling](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0806-domino-and-tromino-tiling) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0954-maximum-sum-circular-subarray) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0967-minimum-falling-path-sum) |
