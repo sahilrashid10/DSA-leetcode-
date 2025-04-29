@@ -149,6 +149,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2915-count-of-interesting-subarrays) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3819-count-covered-buildings](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3819-count-covered-buildings) |
 ## Prefix Sum
@@ -182,6 +183,7 @@
 | [1352-maximum-profit-in-job-scheduling](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3184-maximum-balanced-subsequence-sum) |
+| [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 | [0020-valid-parentheses](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0739-daily-temperatures) |
+| [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## String
 |  |
 | ------- |
@@ -356,4 +359,5 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0739-daily-temperatures) |
+| [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 <!---LeetCode Topics End-->
