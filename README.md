@@ -98,6 +98,7 @@
 | [1352-maximum-profit-in-job-scheduling](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1503-reducing-dishes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1503-reducing-dishes) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -142,6 +143,7 @@
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1503-reducing-dishes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1503-reducing-dishes) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -208,6 +210,7 @@
 | [0368-largest-divisible-subset](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0646-maximum-length-of-pair-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1503-reducing-dishes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1503-reducing-dishes) |
 | [3819-count-covered-buildings](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3819-count-covered-buildings) |
 ## Greedy
 |  |
@@ -215,6 +218,7 @@
 | [0011-container-with-most-water](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0055-jump-game) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0646-maximum-length-of-pair-chain) |
+| [1503-reducing-dishes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1503-reducing-dishes) |
 ## Linked List
 |  |
 | ------- |
