@@ -275,6 +275,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0686-repeated-string-match) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1170-shortest-common-supersequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1250-longest-common-subsequence) |
@@ -348,6 +349,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0686-repeated-string-match) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Combinatorics
 |  |
