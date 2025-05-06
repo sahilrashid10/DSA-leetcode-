@@ -146,6 +146,7 @@
 | [1503-reducing-dishes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1503-reducing-dishes) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2048-build-array-from-permutation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2048-build-array-from-permutation) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -372,4 +373,8 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0739-daily-temperatures) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
