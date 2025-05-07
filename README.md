@@ -52,17 +52,20 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2121-find-if-path-exists-in-graph) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0264-ugly-number-ii) |
 | [0744-network-delay-time](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0744-network-delay-time) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0744-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,6 +159,7 @@
 | [3184-maximum-balanced-subsequence-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3819-count-covered-buildings](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3819-count-covered-buildings) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -324,6 +328,7 @@
 | [0733-flood-fill](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0967-minimum-falling-path-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Union Find
 |  |
 | ------- |
