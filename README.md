@@ -145,6 +145,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1025-minimum-cost-for-tickets) |
+| [1293-three-consecutive-odds](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1293-three-consecutive-odds) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1421-find-numbers-with-even-number-of-digits) |
