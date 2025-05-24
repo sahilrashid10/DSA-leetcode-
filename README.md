@@ -167,6 +167,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3184-maximum-balanced-subsequence-sum) |
+| [3194-find-words-containing-character](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -313,6 +314,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3194-find-words-containing-character) |
 ## Sliding Window
 |  |
 | ------- |
