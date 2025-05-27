@@ -1,12 +1,9 @@
 class Solution {
 public:
     int differenceOfSums(int n, int m) {
-        int s1=0, s2=0;
-        for(int i=1; i<=n; i++){
-            if(i%m == 0)
-                s1 += i;
-            else s2 += i;
-        }
-        return s2 - s1;
+        int totalSum = n * (n + 1) / 2;
+        int divisibleCount = n / m;
+        int divisibleSum = m * divisibleCount * (divisibleCount + 1) / 2;
+        return totalSum - 2 * divisibleSum;
     }
 };
