@@ -62,6 +62,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0264-ugly-number-ii) |
 | [0744-network-delay-time](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0744-network-delay-time) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
@@ -257,6 +258,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Linked List
 |  |
 | ------- |
@@ -294,6 +296,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2915-count-of-interesting-subarrays) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3819-count-covered-buildings](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3819-count-covered-buildings) |
 ## Stack
 |  |
@@ -303,6 +306,7 @@
 | [0739-daily-temperatures](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0739-daily-temperatures) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## String
 |  |
 | ------- |
@@ -329,6 +333,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
 |  |
