@@ -1,37 +1,24 @@
 class Solution {
 public:
     int maxSumDistinctTriplet(vector<int>& x, vector<int>& y) {
-        using node = pair<int, int>;
-        int n = y.size();
-        priority_queue<node> max_elem;
-        
-        for(int i=0; i<n; i++){
-            max_elem.push({y[i], i});
+        // Build a max-heap of (value, type) pairs directly
+        priority_queue<pair<int,int>> pq;
+        for (int i = 0; i < (int)y.size(); ++i) {
+            pq.emplace(y[i], x[i]);
         }
 
-        int count = 1;
-        int prev=-1, pprev=-1;
-        int ans = 0;
-        while(!max_elem.empty()){
-            auto[num, index] = max_elem.top();
-            max_elem.pop();
-            
-            if(count == 1){
-                prev = index;
-                count++;
-                ans += num; 
-            }else if(x[prev] != x[index] && count == 2){
-                pprev = index;
-                count++;
-                ans += num; 
-            }else if(x[prev] != x[index] && x[pprev] != x[index] && count == 3){
-                ans += num;
-                count++;
-                break;
+        unordered_set<int> seen;
+        int sum = 0;
+
+        // Extract until we have 3 distinct types or the heap is exhausted
+        while (!pq.empty() && seen.size() < 3) {
+            auto [value, type] = pq.top();
+            pq.pop();
+            if (seen.insert(type).second) {
+                sum += value;
             }
-
         }
-        if(count != 4)return -1;
-        return ans;    
+
+        return (seen.size() == 3) ? sum : -1;
     }
 };
