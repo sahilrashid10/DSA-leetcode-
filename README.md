@@ -7,6 +7,7 @@
 | [0130-surrounded-regions](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0210-course-schedule-ii) |
+| [0386-lexicographical-numbers](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0801-is-graph-bipartite) |
@@ -445,4 +446,8 @@
 | [3199-distribute-candies-among-children-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
