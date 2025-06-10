@@ -298,6 +298,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2915-count-of-interesting-subarrays) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3819-count-covered-buildings](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3819-count-covered-buildings) |
 ## Stack
 |  |
@@ -336,6 +337,7 @@
 | [3194-find-words-containing-character](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3194-find-words-containing-character) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -430,6 +432,7 @@
 | ------- |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Monotonic Stack
 |  |
 | ------- |
