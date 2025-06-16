@@ -1,62 +1,45 @@
 class Solution {
 public:
-    int n;
-
-    vector<int> toDigit(int num) {
-        vector<int> ans(n);
-        for (int x = num, i = n - 1; x > 0; x /= 10, i--) {
-            ans[i] = x % 10;
-            //        cout<<int(ans[i])<<",";
-        }
-        return ans;
-    }
-
     int maxDiff(int num) {
-        n = 1 + log10(num);
-        vector<int> digit = toDigit(num);
+        // return 8 incase of single digit number
+        if(num / 10 == 0)  
+            return 8;
+        
+        //For log(num) > 1
+        string s = to_string(num);
+        string x, y;
+        x = y = s;
 
-        // Make max
-        int a = -1;
-        for (int i = 0; i < n && a == -1; i++) {
-            if (digit[i] != 9)
-                a = digit[i];
+        char change_x = s[0];   // make's num greatest
+        char change_y = s[0];   // makes num smallest
+        // 2- cases if c_y is ' ' or (change_y is not ' ' and not '1')
+        if(s[0] == '1'){
+            int i=1;
+            while(i<s.size() && (s[i] == '1' || s[i] == '0')){
+                i++;
+            }
+            if(i < s.size())
+                change_y = s[i];
+        }
+        if(s[0] == '9'){
+            int i=1;
+            while(i<s.size() && s[i] == '9'){
+                i++;
+            }
+            if(i < s.size())
+                change_x = s[i];
         }
 
-        int x = 0;
-        for (int i = 0; i < n; i++) {
-            if (digit[i] == a)
-                x = 10 * x + 9;
-            else
-                x = 10 * x + digit[i];
-        }
-
-        // Make min
-        int b = -1, y = 0;
-        if (digit[0] != 1) {
-            b = digit[0];
-            for (int i = 0; i < n; i++) {
-                if (digit[i] == b)
-                    y = 10 * y + 1;
-                else
-                    y = 10 * y + digit[i];
+        for(int i=0; i<s.size(); i++){
+            if(s[i] == change_x){
+                x[i] = '9';
             }
-        } 
-        else {
-            for (int i = 1; i < n && b == -1; i++) {
-                if (digit[i] != 0 && digit[i] != 1) {
-                    b = digit[i];
-                }
-            }
-            for (int i = 0; i < n; i++) {
-                if (i == 0)
-                    y = 10 * y + digit[i]; // preserve the leading 1
-                else if (digit[i] == b)
-                    y = 10 * y + 0;
-                else
-                    y = 10 * y + digit[i];
+            if(s[i] == change_y && change_y != '1'){
+                if(change_x == '1' && s[0] == '1')
+                    y[i] = '0';
+                else y[i] = '1';
             }
         }
-
-        return x - y;
+        return stoi(x) - stoi(y);
     }
 };
