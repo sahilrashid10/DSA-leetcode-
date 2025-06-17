@@ -380,6 +380,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3201-distribute-candies-among-children-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -433,6 +434,7 @@
 | [0062-unique-paths](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0062-unique-paths) |
 | [3199-distribute-candies-among-children-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3201-distribute-candies-among-children-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
