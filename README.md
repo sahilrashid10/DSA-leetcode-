@@ -169,6 +169,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -240,6 +241,7 @@
 | [0189-rotate-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0647-palindromic-substrings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
 |  |
