@@ -148,6 +148,7 @@
 | [0413-arithmetic-slices](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0523-continuous-subarray-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0523-continuous-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0739-daily-temperatures) |
@@ -253,6 +254,7 @@
 | [0075-sort-colors](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0646-maximum-length-of-pair-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1503-reducing-dishes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1503-reducing-dishes) |
@@ -310,6 +312,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0433-minimum-genetic-mutation) |
 | [0523-continuous-subarray-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0523-continuous-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1500-count-largest-group](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1500-count-largest-group) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -370,6 +373,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -462,6 +466,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
