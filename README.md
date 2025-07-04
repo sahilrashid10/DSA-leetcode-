@@ -4,6 +4,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0210-course-schedule-ii) |
@@ -330,6 +331,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0739-daily-temperatures) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -463,6 +465,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Counting
 |  |
@@ -495,4 +498,8 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
