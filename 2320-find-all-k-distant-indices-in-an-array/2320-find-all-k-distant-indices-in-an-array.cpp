@@ -9,6 +9,7 @@ public:
 
             int start = max(0, i - k);
             int end = min(int(nums.size() - 1), i + k);
+            
             if (!result.empty() && result.back() >= start)
                 start = result.back() + 1;
 
