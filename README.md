@@ -20,6 +20,7 @@
 | [0871-keys-and-rooms](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2121-find-if-path-exists-in-graph) |
@@ -40,6 +41,7 @@
 | [0820-find-eventual-safe-states](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0922-possible-bipartition) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -262,6 +264,7 @@
 | [0368-largest-divisible-subset](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0646-maximum-length-of-pair-chain) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1503-reducing-dishes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1503-reducing-dishes) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -320,6 +323,7 @@
 | [0523-continuous-subarray-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1500-count-largest-group](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1500-count-largest-group) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -475,6 +479,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0513-find-bottom-left-tree-value) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Counting
 |  |
@@ -514,4 +519,5 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0513-find-bottom-left-tree-value) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
