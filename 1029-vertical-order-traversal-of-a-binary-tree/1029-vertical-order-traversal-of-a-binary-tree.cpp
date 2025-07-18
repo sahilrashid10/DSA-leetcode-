@@ -12,42 +12,33 @@
 class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-    // 1.level order traversal
-        vector<vector<int>> result;
-        if(!root) return result;
-        
-        queue<pair<int, pair<int, TreeNode*>>> q;
-        q.push({0, {0, root}});
-        map<int, map<int, multiset<int>>> mp;
+
+        vector<vector<int>>result;
+        map<int, map<int, multiset<int>>>m;
+        queue<pair<TreeNode*, pair<int, int>>>q;
+        q.push({root, {0, 0}});
+
         while(!q.empty()){
-            int level = q.size();
+            pair<TreeNode*, pair<int, int>> cur = q.front();
+            q.pop();
 
-            for(int i=0; i<level; i++){
-                auto[vert_dist, temp] = q.front();
-                q.pop();
+            TreeNode* curNode = cur.first;
+            int hd = cur.second.first;
+            int lvl = cur.second.second;
+            m[hd][lvl].insert(curNode->val);
 
-                TreeNode* curNode = temp.second;
-                int curLvl = temp.first;
-                
-                mp[vert_dist][curLvl].insert(curNode->val);
-                if(curNode->left)
-                    q.push({vert_dist - 1, {curLvl+1, curNode->left}});
-
-                if(curNode->right)
-                    q.push({vert_dist + 1, {curLvl+1, curNode->right}});
-    
-            }
+            if(curNode->left)
+                q.push({curNode->left, {hd-1, lvl+1}});
+            if(curNode->right)
+                q.push({curNode->right, {hd+1, lvl+1}});
         }
-
-        for (auto& [x, level_map] : mp) {
-            vector<int> col;
-            for (auto& [y, nodes] : level_map) {
-                col.insert(col.end(), nodes.begin(), nodes.end());
+        for(auto &i:m){
+            vector<int>col;
+            for(auto &j:i.second){
+                col.insert(col.end(), j.second.begin(), j.second.end());
             }
             result.push_back(col);
         }
-
         return result;
-        
     }
 };
