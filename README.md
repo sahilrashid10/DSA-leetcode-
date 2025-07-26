@@ -498,6 +498,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2384-root-equals-sum-of-children](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2384-root-equals-sum-of-children) |
 ## Counting
 |  |
 | ------- |
@@ -542,4 +543,5 @@
 | [0513-find-bottom-left-tree-value](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
