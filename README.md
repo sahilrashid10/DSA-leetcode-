@@ -6,6 +6,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -305,6 +306,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0021-merge-two-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0206-reverse-linked-list) |
@@ -350,6 +352,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0739-daily-temperatures) |
@@ -487,6 +490,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0199-binary-tree-right-side-view) |
@@ -531,6 +535,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0199-binary-tree-right-side-view) |
