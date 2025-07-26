@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0199-binary-tree-right-side-view) |
@@ -94,6 +95,7 @@
 | [0064-minimum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0072-edit-distance) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0198-house-robber) |
@@ -478,6 +480,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0513-find-bottom-left-tree-value) |
@@ -519,6 +522,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0513-find-bottom-left-tree-value) |
