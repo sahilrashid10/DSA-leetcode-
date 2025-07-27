@@ -153,6 +153,7 @@
 | [0075-sort-colors](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0152-maximum-product-subarray) |
@@ -225,6 +226,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -502,6 +504,7 @@
 | [0101-symmetric-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -551,6 +554,7 @@
 | [0101-symmetric-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -564,5 +568,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
