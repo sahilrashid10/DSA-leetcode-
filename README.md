@@ -371,6 +371,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0739-daily-temperatures](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -515,6 +516,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -570,6 +572,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -584,8 +587,17 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
