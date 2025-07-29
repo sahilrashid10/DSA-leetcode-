@@ -55,6 +55,7 @@
 | [0820-find-eventual-safe-states](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0922-possible-bipartition) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -532,6 +533,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -591,6 +593,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
