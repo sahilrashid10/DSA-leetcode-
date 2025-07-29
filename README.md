@@ -85,6 +85,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0264-ugly-number-ii) |
 | [0744-network-delay-time](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0744-network-delay-time) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -530,6 +531,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -588,6 +590,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -602,14 +605,20 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Design
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0173-binary-search-tree-iterator) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Iterator
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0173-binary-search-tree-iterator) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
