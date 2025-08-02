@@ -1,46 +1,52 @@
 class Solution {
 public:
 
-    int find(vector<int> &par, int i){
-        if(i == par[i])
-            return i;
-        return par[i] = find(par, par[i]);
+    vector<int> p, rank;
+
+    int find(int node){
+        if(node == p[node]) return node;
+
+        return p[node] = find(p[node]);
     }
 
-    void findUnion(vector<int> &par, vector<int> &rank,
-        int i, int j, int &edges){
+    void unite(int node1, int node2){
+        int node1_parent = find(node1);
+        int node2_parent = find(node2);
 
-        int par_i = find(par, i);
-        int par_j = find(par, j);
+        if(node2_parent == node1_parent) return;
 
-        if(par_i == par_j) return;
+        if(rank[node2_parent] < rank[node1_parent])
+            p[node2_parent] = node1_parent;
 
-        if(rank[i] > rank[j])
-            par[par_j] = par_i;
-        else if(rank[i] < rank[j])
-            par[par_i] = par_j;
+        else if(rank[node2_parent] > rank[node1_parent])
+            p[node1_parent] = node2_parent;
         else{
-            par[par_j] = par_i;
-            rank[par_i]++;
+            p[node2_parent] =  node1_parent;
+            rank[node1_parent] += 1;
         }
     }
-    int makeConnected(int n, vector<vector<int>>& c) {
-        if(c.size() < n-1) return -1;
-
-        int edges = 0;
-        vector<int> par(n);
-        vector<int> rank(n, 0);
+    int makeConnected(int n, vector<vector<int>>& connections) {
+        rank.resize(n, 0);
+        p.resize(n);
 
         for(int i=0; i<n; i++)
-            par[i] = i;
+            p[i] = i;
 
-        for(auto &it: c)
-            findUnion(par, rank, it[0], it[1], edges);
+        int connectedNodes = 1, 
+        cablesLeft = connections.size();
 
-        for(int i=0; i<n; i++){
-            if(par[i] == i) edges++;
+        for(auto &it:connections){
+            int node1  = it[0],
+            node2  = it[1];
+
+            if(find(node1) != find(node2)){
+                unite(node1, node2);
+                connectedNodes++;
+                cablesLeft--;
+            }
         }
-        
-        return edges-1;
+
+        int leftOutNodes = n - connectedNodes;
+        return cablesLeft >= leftOutNodes ? leftOutNodes:-1;
     }
 };
