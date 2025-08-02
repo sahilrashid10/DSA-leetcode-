@@ -1,38 +1,33 @@
 class Solution {
 public:
-    bool isCycle(vector<vector<int>> &adj, vector<int> &visited, stack<int> &s, int i,
-         vector<int> & pathVisited){
-        visited[i] = 1;
-        pathVisited[i] = 1;
-
-        for(auto &node : adj[i]){
-            if(!visited[node] && isCycle(adj, visited, s, node, pathVisited)){
-                return true;
-            }else if(pathVisited[node] == 1)
-            return true;
-        }
-        pathVisited[i] = 0;
-        s.push(i);
-        return false;
-    }
-    vector<int> findOrder(int numCourses, vector<vector<int>>& p) {
-        vector<vector<int>> adj(numCourses);
-        for(auto &it : p){
+    vector<int> findOrder(int V, vector<vector<int>>& preq) {
+        vector<vector<int>> adj(V);
+        vector<int> indg(V);
+        for(auto it : preq){
             adj[it[1]].push_back(it[0]);
+                indg[it[0]]++;
         }
-        vector<int> visited(numCourses, 0);
-        vector<int> pathVisited(numCourses, 0);
-        stack<int> s;
-        for(int i=0; i<adj.size(); i++){
-            if(!visited[i] && isCycle(adj, visited, s, i, pathVisited)){
-                return {};
+        queue<int> q;
+        vector<int> ans;
+        for(int i = 0 ;i<V ; i++){
+            if(indg[i]==0){ 
+                q.push(i);
+                ans.push_back(i);
             }
         }
-        vector<int> ans;
-        while(!s.empty()){
-            ans.push_back(s.top());
-            s.pop();
+
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+             for(auto it : adj[node]){
+                indg[it]--;
+                if(indg[it]==0){ 
+                    q.push(it);
+                    ans.push_back(it);
+                }
+            }
         }
-        return ans;
+        if(ans.size()==V) return ans;
+        return {};
     }
 };
