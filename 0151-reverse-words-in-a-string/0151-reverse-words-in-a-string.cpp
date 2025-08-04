@@ -19,10 +19,11 @@ public:
         }
         temp = "";
         while(!st.empty()){
-            temp += st.top() + ' ';
+            if(st.size() == 1)
+                temp += st.top();
+            else temp += st.top() + ' ';
             st.pop();
         }
-        s = temp.substr(0,temp.size()-1);
-        return s;
+        return temp;
     }
 };
