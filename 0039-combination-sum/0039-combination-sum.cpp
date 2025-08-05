@@ -1,28 +1,28 @@
 class Solution {
 public:
 
-    void solve(vector<int>&c, int k, int n,vector<vector<int>>&ans, vector<int>&s,
-     int sum, int i)
-    {
-        if(sum == k){
-            ans.push_back(s);
+    vector<vector<int>> ans;
+    vector<int> temp;
+
+    void helper(vector<int>& c, int &t, int i, int sum){
+        if(i == c.size()) return;
+
+        if(sum > t) return;
+        else if(sum == t){
+            ans.push_back(temp);
             return;
         }
-        if(i>=n || sum>k) return;
-
         sum += c[i];
-        s.push_back(c[i]);
-        solve(c, k, n,ans, s, sum, i);
+        temp.push_back(c[i]);
+        helper(c, t, i, sum);
+        
         sum -= c[i];
-        s.pop_back();
-        solve(c, k, n,ans, s, sum, i+1);
-        return ;
-    }
+        temp.pop_back();
+        helper(c, t, i+1, sum);
 
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<int>subset;
-        vector<vector<int>>ans;
-        solve(candidates, target, candidates.size(), ans, subset, 0, 0);
+    }
+    vector<vector<int>> combinationSum(vector<int>& c, int t) { 
+        helper(c, t, 0, 0);
         return ans;
     }
 };
