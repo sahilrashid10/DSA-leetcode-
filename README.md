@@ -161,6 +161,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0063-unique-paths-ii) |
@@ -504,6 +505,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0813-all-paths-from-source-to-target](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0813-all-paths-from-source-to-target) |
