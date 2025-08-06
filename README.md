@@ -352,6 +352,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1013-fibonacci-number) |
@@ -452,6 +453,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0189-rotate-array) |
