@@ -157,6 +157,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
@@ -250,6 +251,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -270,6 +272,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0300-longest-increasing-subsequence) |
