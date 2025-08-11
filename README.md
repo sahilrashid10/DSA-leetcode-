@@ -90,6 +90,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0295-find-median-from-data-stream) |
 | [0744-network-delay-time](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0744-network-delay-time) |
@@ -189,6 +190,7 @@
 | [0213-house-robber-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0368-largest-divisible-subset) |
@@ -267,12 +269,14 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0954-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0954-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -465,6 +469,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0594-longest-harmonious-subsequence) |
