@@ -59,6 +59,7 @@
 | [0922-possible-bipartition](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0922-possible-bipartition) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1036-rotting-oranges) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -207,6 +208,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1025-minimum-cost-for-tickets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1032-satisfiability-of-equality-equations) |
+| [1036-rotting-oranges](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1293-three-consecutive-odds](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1293-three-consecutive-odds) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -512,6 +514,7 @@
 | [0200-number-of-islands](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
