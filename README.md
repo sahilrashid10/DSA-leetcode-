@@ -419,6 +419,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0232-implement-queue-using-stacks) |
@@ -676,6 +677,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0232-implement-queue-using-stacks) |
