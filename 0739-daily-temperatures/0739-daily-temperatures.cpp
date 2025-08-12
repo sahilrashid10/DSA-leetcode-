@@ -4,13 +4,13 @@ public:
         stack<int>s;   
         int n = t.size();
         
-        vector<int> ans(n, 0);
-        for(int i=0; i<n; i++){
-            while(!s.empty() && t[i] > t[s.top()]){
-                int top = s.top();
+        vector<int> ans(n);
+        for(int i=n-1; i>=0; i--){
+            while(!s.empty() && t[i] >= t[s.top()]){
                 s.pop();
-                ans[top] = i - top;
             }
+            int top = s.empty() ? 0 : s.top()-i;
+            ans[i] = top;
             s.push(i);
         }
         return ans;
