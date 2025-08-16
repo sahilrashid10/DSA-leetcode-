@@ -1,26 +1,34 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        unordered_map<char, int> mp;
-        mp['I'] = 1;
-        mp['V'] = 5;
-        mp['X'] = 10;
-        mp['L'] = 50;
-        mp['C'] = 100;
-        mp['D'] = 500;
-        mp['M'] = 1000;
+        unordered_map<char, int> m;
+        m['I'] = 1;
+        m['V'] = 5;
+        m['X'] = 10;
+        m['L'] = 50;
+        m['C'] = 100;
+        m['D'] = 500;
+        m['M'] = 1000;
 
-        int number = 0;
-        for(int i=0; i<s.length(); i++){
+        int ans = 0;
+        char prev = '*';
+        for(char &c:s){
+            if(prev != '*' && (c == 'V' || c == 'X' || c == 'L' || 
+            c == 'C' || c == 'D' || c == 'M')){
 
-            if(mp[s[i]] < mp[s[i+1]]){
-                number += mp[s[i]];
-                number -= 2*mp[s[i]];
-                }
-            else
-                number += mp[s[i]];    
-            
+                if(prev == 'I' &&(c == 'V' || c == 'X'))
+                    ans += m[c] - 2*m[prev];
+
+                else if(prev == 'X' &&(c == 'L' || c == 'C'))
+                    ans += m[c] - 2*m[prev];
+
+                else if(prev == 'C' && (c == 'D' || c == 'M'))
+                    ans += m[c] - 2*m[prev];
+                else ans += m[c];
+            }else
+                ans += m[c];
+            prev = c;
         }
-            return number;
-        }
-    };
+        return ans;
+    }
+};
