@@ -383,6 +383,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0073-set-matrix-zeroes) |
@@ -438,6 +439,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0049-group-anagrams) |
@@ -486,6 +488,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0070-climbing-stairs) |
