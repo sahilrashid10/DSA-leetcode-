@@ -13,18 +13,8 @@ public:
         int ans = 0;
         char prev = '*';
         for(char &c:s){
-            if(prev != '*' && (c == 'V' || c == 'X' || c == 'L' || 
-            c == 'C' || c == 'D' || c == 'M')){
-
-                if(prev == 'I' &&(c == 'V' || c == 'X'))
-                    ans += m[c] - 2*m[prev];
-
-                else if(prev == 'X' &&(c == 'L' || c == 'C'))
-                    ans += m[c] - 2*m[prev];
-
-                else if(prev == 'C' && (c == 'D' || c == 'M'))
-                    ans += m[c] - 2*m[prev];
-                else ans += m[c];
+            if(prev != '*' && m[c] > m[prev]){
+                ans += m[c] - 2*m[prev];
             }else
                 ans += m[c];
             prev = c;
