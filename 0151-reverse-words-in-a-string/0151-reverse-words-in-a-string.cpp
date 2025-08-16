@@ -2,60 +2,84 @@ class Solution {
 public:
     string reverseWords(string s) {
         int n = s.size();
-        int i=0, left = 0, right = 0;
+        int i = 0, j = 0, k = 0;
 
+        // 1. Reverse the whole string
         reverse(s.begin(), s.end());
-        while(i<n){  
 
-            while(i<n && s[i] != ' '){
-                s[right] = s[i];
-                i++;
-                right++;
-            }
-            if(left < right){
-                reverse(s.begin() + left, s.begin() + right);
-                s[right] = ' ';
-                right++;
-                left = right;
-            }
-            i++;
+        // 2. Process each word in-place
+        while (i < n) {
+            // skip spaces
+            while (i < n && s[i] == ' ') i++;
+
+            if (i >= n) break;
+
+            // mark the start of the word
+            k = j;
+
+            // copy the word forward (overwrite spaces)
+            while (i < n && s[i] != ' ') s[j++] = s[i++];
+
+            // reverse the word
+            reverse(s.begin() + k, s.begin() + j);
+
+            // add a single space after the word
+            if (j < n) s[j++] = ' ';
         }
-        s = s.substr(0, right-1);
+
+        // remove trailing spaces
+        if (j > 0 && s[j-1] == ' ') j--;
+        s.erase(s.begin() + j, s.end());
+
         return s;
     }
 };
 
-
-
-
-
-
-// NOT OPTIMAL
 // class Solution {
 // public:
 //     string reverseWords(string s) {
-//         stack<string> st;
-//         int i=0;
-
-//         while(i<s.size() && s[i] == ' ') i++;
-
+//         int n = s.size();
 //         string temp = "";
-//         for(; i<s.size(); i++){
-//             while(i< s.size() && s[i] != ' '){
-//                 temp += s[i];
-//                 i++;
-//             }
-//             if(temp != "")
-//                 st.push(temp);
+//         string ans = "";
 
-//             temp = "";
+//         int i = n - 1;
+//         while (i >= 0) {
+//             while (i >= 0 && s[i] == ' ')
+//                 i--;
+
+//             while (i >= 0 && s[i] != ' ') {
+//                 temp += s[i];
+//                 i--;
+//             }
+//             if (!temp.empty()) {
+//                 reverse(temp.begin(), temp.end());
+//                 ans = ans + ' ' + temp;
+//                 temp = "";
+//             }
 //         }
-//         temp = "";
-//         while(!st.empty()){
-//             temp += st.top() + ' ';
-//             st.pop();
-//         }
-//         s = temp.substr(0,temp.size()-1);
-//         return s;
+//         ans.erase(0, 1);
+//         return ans;
 //     }
 // };
+// Exactly — you’ve got it! Let me summarize precisely:
+
+// Outer loop (while(i >= 0)): Each character is visited once → O(n).
+
+// Reversing temp for each word: Each character is reversed exactly once → total
+// O(n).
+
+// ans = ans + ' ' + temp:
+
+// Each concatenation creates a new string and copies the entire current ans
+// plus the new word.
+
+// If there are many words, the total copied characters over all concatenations
+// sum up to roughly n + (n + ...) = O(n²) in the worst case.
+
+// ✅ So, overall complexity:
+
+// �(�)
+//  (outer loop) + �(�)
+//  (reversals) + �(� 2)
+//  (string concatenation) = �(� 2) O(n) (outer loop) + O(n) (reversals) +
+//                            O(n 2) (string concatenation) = O(n 2)
