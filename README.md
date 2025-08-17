@@ -369,6 +369,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0328-odd-even-linked-list) |
 ## Recursion
@@ -392,6 +393,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0264-ugly-number-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0424-longest-repeating-character-replacement) |
@@ -689,6 +691,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0225-implement-stack-using-queues) |
@@ -718,4 +721,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
