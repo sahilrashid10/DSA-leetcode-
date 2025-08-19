@@ -7,13 +7,12 @@ class Solution {
     int m;
 
     // Modular exponentiation
-    long long modPow(long long b, long long e, long long mod) {
+    long long modPow(long long b, long long e) {
         long long res = 1;
-        b %= mod;
+        // b %= mod;
         while (e > 0) {
-            if (e % 2) res = (res * b) % mod;
-            b = (b * b) % mod;
-            e /= 2;
+            res = (res * b) % mod;
+            e--;
         }
         return res;
     }
@@ -32,7 +31,7 @@ class Solution {
         if (n < m) return false;
 
         long long hashPattern = 0, hashText = 0;
-        long long power = modPow(base, m - 1, mod);
+        long long power = modPow(base, m - 1);
 
         // initial hashes
         for (int i = 0; i < m; i++) {
