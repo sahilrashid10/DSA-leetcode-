@@ -1,52 +1,66 @@
 class Solution {
 public:
-
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        vector<vector<string>> result;
-        unordered_map<string, vector<string>> m;
+        unordered_map<string, vector<int>> mp;
+        //n*klog(k)
+        for(int i=0; i<strs.size(); i++){
+            string sortedString = strs[i];
 
-        for(auto &s : strs){
-            string key = s;
-            sort(key.begin(), key.end());
-            m[key].push_back(s);
+            sort(sortedString.begin(), sortedString.end());
+            mp[sortedString].push_back(i);
         }
-        for(auto &it : m)
-            result.push_back(it.second);
-
+        //n
+        vector<vector<string>> result;
+        for(auto &[s, v]:mp){
+            vector<string> temp;
+            for(int i=0; i<v.size(); i++){
+                temp.push_back(strs[v[i]]);
+            }
+            result.push_back(temp);
+        }
         return result;
     }
 };
+
+
+
+
+
 // class Solution {
 // public:
-//     bool checkAngara(string &s1, string &s2, string &s) {
-//         if(s1.size() != s2.size()) return false;
+//     int n;
 
-//         vector<int> f(26, 0);
-//         for(int i=0; i<s1.size(); i++)
-//             f[s1[i] - 'a']++;
+//     bool isAnagram(string &s, string &t){
+//         if(s.size() != t.size()) return 0;
 
-//         for(int i=0; i<s2.size(); i++){
-//             if(--f[s2[i] - 'a'] < 0 ) return false;
+//         vector<int> freq(26 , 0);
+//         for(int i=0; i<s.size(); i++){
+//             freq[s[i]-'a']++;
+//             freq[t[i]-'a']--;
 //         }
-//         s = s2;
-//         return true;
+//         for(int i=0; i<26; i++){
+//             if(freq[i] != 0) return 0;
+//         }
+
+//         return 1;
+        
 //     }
 //     vector<vector<string>> groupAnagrams(vector<string>& strs) {
+//         n = strs.size();
+//         vector<int> visited(n, 0);
 //         vector<vector<string>> result;
-//         unordered_map<string, int> m;
 
-//         for(int i=0; i<strs.size(); i++){
-//             if(m.find(strs[i]) != m.end())
-//                 continue;
+//         for(int i=0; i<n; i++){
+//             if(visited[i]) continue;
 
-//             vector<string> temp = {strs[i]};
-//             m[strs[i]]++;
-//             for(int j = i+1; j<strs.size(); j++){
-//                 string s;
+//             visited[i] = 1;
+//             vector<string> temp;
+//             temp.push_back(strs[i]);
 
-//                 if(checkAngara(strs[i], strs[j], s)){
-//                     m[strs[j]]++;
-//                     temp.push_back(s);
+//             for(int j = i+1; j<n; j++){
+//                 if(isAnagram(strs[i], strs[j])){
+//                     temp.push_back(strs[j]);
+//                     visited[j] = 1;
 //                 }
 //             }
 //             result.push_back(temp);
