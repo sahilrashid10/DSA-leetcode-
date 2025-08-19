@@ -9,10 +9,11 @@ class Solution {
     // Modular exponentiation
     long long modPow(long long b, long long e) {
         long long res = 1;
-        // b %= mod;
-        while (e > 0) {
-            res = (res * b) % mod;
-            e--;
+        b %= mod;
+        while(e > 0){
+            if(e % 2) res =( res * b) % mod;
+            b = (b * b) % mod;
+            e /= 2;
         }
         return res;
     }
@@ -45,7 +46,7 @@ class Solution {
 
             // slide window
             if (i < n - m) {
-                hashText = hashText - ((text[i] - 'a') * power);
+                hashText = (hashText - ((text[i] - 'a') * power) % mod + mod) % mod;
                 hashText = (hashText * base + (text[i + m] - 'a')) % mod;
             }
         }
