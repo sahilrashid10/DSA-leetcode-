@@ -3,12 +3,16 @@ public:
     bool isAnagram(string s, string t) {
         if(s.size() != t.size()) return 0;
 
-        vector<int> a1(26, 0), a2(26, 0);
+        vector<int> a(26, 0);
 
         for(int i=0; i<s.size(); i++){
-            a1[s[i]-'a']++;
-            a2[t[i]-'a']++;
+            a[s[i]-'a']++;
+            a[t[i]-'a']--;
         }
-        return a1 == a2;
+        for(int i=0; i<26; i++){
+            if(a[i] != 0)
+                return 0;
+        }
+        return 1;
     }
 };
