@@ -147,6 +147,7 @@
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1503-reducing-dishes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1503-reducing-dishes) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -218,6 +219,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1503-reducing-dishes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1503-reducing-dishes) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1706-min-cost-to-connect-all-points) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -491,6 +493,7 @@
 | [0413-arithmetic-slices](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0594-longest-harmonious-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2856-count-complete-subarrays-in-an-array) |
