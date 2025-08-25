@@ -202,6 +202,7 @@
 | [0413-arithmetic-slices](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0496-next-greater-element-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0646-maximum-length-of-pair-chain) |
@@ -539,6 +540,7 @@
 | [0073-set-matrix-zeroes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1036-rotting-oranges) |
@@ -653,6 +655,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Enumeration
