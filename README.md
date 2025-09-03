@@ -198,6 +198,7 @@
 | [0200-number-of-islands](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0300-longest-increasing-subsequence) |
@@ -345,6 +346,7 @@
 | [0088-merge-sorted-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0368-largest-divisible-subset) |
@@ -419,6 +421,7 @@
 | [0141-linked-list-cycle](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0264-ugly-number-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0424-longest-repeating-character-replacement) |
@@ -657,6 +660,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
