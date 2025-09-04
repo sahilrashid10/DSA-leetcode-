@@ -207,6 +207,7 @@
 | [0368-largest-divisible-subset](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0368-largest-divisible-subset) |
 | [0413-arithmetic-slices](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0493-reverse-pairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0523-continuous-subarray-sum) |
@@ -283,6 +284,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
@@ -309,6 +311,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0493-reverse-pairs) |
 | [0907-koko-eating-bananas](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0907-koko-eating-bananas) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -609,10 +612,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0493-reverse-pairs) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3184-maximum-balanced-subsequence-sum) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0493-reverse-pairs) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3184-maximum-balanced-subsequence-sum) |
 ## String Matching
 |  |
@@ -776,6 +781,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0948-sort-an-array) |
 ## Doubly-Linked List
 |  |
@@ -807,4 +813,8 @@
 | [1203-print-in-order](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1203-print-in-order) |
 | [1316-fizz-buzz-multithreaded](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1316-fizz-buzz-multithreaded) |
 | [1340-the-dining-philosophers](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1340-the-dining-philosophers) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
