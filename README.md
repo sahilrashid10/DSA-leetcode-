@@ -490,6 +490,7 @@
 | [0165-compare-version-numbers](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0433-minimum-genetic-mutation) |
 | [0459-repeated-substring-pattern](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0459-repeated-substring-pattern) |
@@ -542,6 +543,7 @@
 | [0264-ugly-number-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0368-largest-divisible-subset) |
+| [0412-fizz-buzz](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -682,6 +684,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
