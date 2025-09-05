@@ -135,6 +135,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0647-palindromic-substrings) |
+| [0741-cherry-pickup](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0741-cherry-pickup) |
 | [0806-domino-and-tromino-tiling](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0806-domino-and-tromino-tiling) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0954-maximum-sum-circular-subarray) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -215,6 +216,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0739-daily-temperatures) |
+| [0741-cherry-pickup](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0741-cherry-pickup) |
 | [0907-koko-eating-bananas](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0954-maximum-sum-circular-subarray) |
@@ -571,6 +573,7 @@
 | [0200-number-of-islands](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0741-cherry-pickup) |
 | [0967-minimum-falling-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
