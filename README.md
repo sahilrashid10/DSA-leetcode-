@@ -823,4 +823,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0493-reverse-pairs) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
