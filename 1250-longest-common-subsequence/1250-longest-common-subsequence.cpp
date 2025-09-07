@@ -1,69 +1,44 @@
 class Solution {
 public:
-    int longestCommonSubsequence(string s1, string s2) {
-        if (s1.size() < s2.size())
-            swap(s1, s2); // Ensure s1 is the longer one
-
-        int n = s1.size(), m = s2.size();
-        vector<int> prev(m + 1, 0), curr(m + 1, 0);
-
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= m; j++) {
-                if (s1[i - 1] == s2[j - 1])
-                    curr[j] = 1 + prev[j - 1];
-                else
-                    curr[j] = max(prev[j], curr[j - 1]);
+    int longestCommonSubsequence(string text1, string text2) {
+        int n1 = text1.size(),
+        n2 = text2.size();
+        vector<vector<int>> dp(n1+1, vector<int>(n2+1, 0));
+        for(int i=0; i<n1; i++){
+            for(int j = 0; j<n2; j++){
+                if(text1[i] == text2[j])
+                    dp[i+1][j+1] = dp[i][j] + 1;
+                else dp[i+1][j+1] = max(dp[i+1][j], dp[i][j+1]);
             }
-            prev = curr;
         }
-        return prev[m];
+        return dp[n1][n2];
     }
 };
 
-/*BOTTOM UP*/
-// class Solution {
-// public:
-//     int longestCommonSubsequence(string text1, string text2) {
-//         int n = text1.size(), m = text2.size();
-//         vector<vector<int>> dp(n+1, vector<int>(m+1, 0));
 
-//         for(int i=1; i<dp.size(); i++){
-//             for(int j=1; j<dp[0].size(); j++){
-//                 if(text1[i-1] == text2[j-1]){
-//                     dp[i][j] = 1 + dp[i-1][j-1];
-//                 }else{
-//                     dp[i][j] = max(dp[i-1][j], dp[i][j-1]);
-//                 }
-//             }
-//         }
-//         return dp[n][m];
-//     }
-// };
-/*TOP DOWN (MEMOIZATION) 1 46/47 TC PASS*/
 // class Solution {
 // public:
-//     int n, m;
-//     vector<vector<int>>dp;
-//     int solve(string t1, string t2, int i, int j){
-//         if(i >= n || j >= m) return 0;
-        
-//         if(dp[i][j] != -1) return dp[i][j];
-        
-//         int take = 0, skip = 0;
-//         if(t1[i] == t2[j]) 
-//             take = 1 + solve(t1, t2, i+1, j+1);
+//     vector<vector<int>> dp;
+//     int n1, n2;
+//     int helper(string &text1, string &text2, int i1, int i2){
+//         if(i1 >= n1 || i2 >= n2) return 0;
+//         if(dp[i1][i2] != -1) return dp[i1][i2];
+//         int take = 0;
+//         int skip = 0;
+//         if(text1[i1] == text2[i2])
+//             take = 1 + helper(text1, text2, i1 + 1, i2 + 1);
 //         else{
-//             int sk1 = solve(t1, t2, i+1, j);
-//             int sk2 = solve(t1, t2, i, j+1);
-//             take = max(sk1, sk2);
+//             skip = max(
+//                 helper(text1, text2, i1 + 1, i2),
+//                 helper(text1, text2, i1, i2 + 1)
+//             );
 //         }
-//         return dp[i][j] = max(take, skip);
+//         return dp[i1][i2] = max(take, skip);
 //     }
-//     int longestCommonSubsequence(string t1, string t2) {
-//         n = t1.size();
-//         m = t2.size();
-//         dp.resize(1000, vector<int>(1000, -1));
-
-//         return solve(t1, t2, 0, 0);
+//     int longestCommonSubsequence(string text1, string text2) {
+//         n1 = text1.size();
+//         n2 = text2.size();
+//         dp.resize(n1, vector<int>(n2, -1));
+//         return helper(text1, text2, 0, 0);
 //     }
 // };
