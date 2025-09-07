@@ -11,9 +11,9 @@ public:
                 else 
                     cur[j+1] = max(prev[j+1], cur[j]);
             }
-            prev = cur;
+            swap(cur, prev);
         }
-        return cur[n2];
+        return prev[n2];
     }
 };
 
