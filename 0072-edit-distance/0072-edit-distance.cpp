@@ -1,49 +1,58 @@
-/*BOTTOM UP*/
-
 class Solution {
 public:
-    int minDistance(string &w1, string &w2) {
-        int m = w1.size(), n = w2.size();
-        if(m == 0 || n == 0) return m+n;
+    int minDistance(string word1, string word2) {
+        int n = word1.size();
+        int m = word2.size();
+        vector<vector<int>> dp(n + 1, vector<int>(m + 1, -1));
+        for (int i = 0; i <= n; i++)
+            dp[i][0] = i;
+        for (int i = 0; i <= m; i++)
+            dp[0][i] = i;
 
-        vector<vector<int>> dp(m+1, vector<int>(n+1));
-        for(int i=0; i<=m; i++){
-            for(int j=0; j<=n; j++){
-                if(i == 0 || j == 0) dp[i][j] = i + j;
-
-                else if(w1[i-1] == w2[j-1])
+        for (int i = 1; i <=n ; i++) {
+            for (int j = 1; j <=m ; j++) {
+                if (word1[i-1] == word2[j-1])
                     dp[i][j] = dp[i-1][j-1];
+
                 else{
-                    dp[i][j] = 1 + min(dp[i-1][j-1], min(dp[i-1][j], dp[i][j-1]));
+                        dp[i][j] = 1 + min({
+                        dp[i-1][j-1], 
+                        dp[i-1][j],
+                        dp[i][j-1]
+                    });
                 }
             }
         }
-        return dp[m][n];
+        return dp[n][m];
     }
 };
 
-/*TOP DOWN - RECURSION AND MEMOIZATION*/
 // class Solution {
 // public:
-//     int dp[501][501];
-//     int solve(string &w1, string &w2, int m, int n) {
-//         if (m == 0) return n; // insert all remaining from w2
-//         if (n == 0) return m; // delete all remaining from w1
+//     int n;
+//     int m;
+//     vector<vector<int>> dp;
+//     int helper(string &word1, string &word2, int i, int j){
+//         if(i == 0 && j == 0) return 0;
+//         if(i == 0) return j;
+//         if(j == 0) return i;
 
-//         if(dp[m][n] != -1) return dp[m][n];
-//         if (w1[m - 1] == w2[n - 1]) {
-//             return dp[m][n] = solve(w1, w2, m - 1, n - 1);
-//         } else {
-//             // try all 3 operations
-//             int insertOp = 1 + solve(w1, w2, m, n - 1);
-//             int deleteOp = 1 + solve(w1, w2, m - 1, n);
-//             int replaceOp = 1 + solve(w1, w2, m - 1, n - 1);
-//             return dp[m][n] = min({insertOp, deleteOp, replaceOp});
+//         if(dp[i][j] != -1) return dp[i][j];
+
+//         if(word1[i-1] == word2[j-1])
+//             return dp[i][j] = helper(word1, word2, i-1, j-1);
+//         else{
+//             return dp[i][j] = min({
+//                 1 + helper(word1, word2, i-1, j), // insert
+//                 1 + helper(word1, word2, i, j-1), // delete
+//                 1 + helper(word1, word2, i-1, j-1) // replace
+//             });
 //         }
 //     }
-
-//     int minDistance(string w1, string w2) {
-//         memset(dp, -1, sizeof(dp));
-//         return solve(w1, w2, w1.size(), w2.size());
+//     int minDistance(string word1, string word2) {
+//         n = word1.size();
+//         m = word2.size();
+//         dp.resize(n+1, vector<int>(m+1, -1));
+//         return helper(word1, word2, n, m);
 //     }
 // };
