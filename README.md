@@ -826,6 +826,7 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0584-find-customer-referee) |
 | [1153-product-sales-analysis-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1258-article-views-i) |
