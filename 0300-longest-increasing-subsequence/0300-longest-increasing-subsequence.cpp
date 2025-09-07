@@ -1,44 +1,41 @@
-//OPTIMAL APPROACH VIS: PATIENCE SORTING
+// nlogn time and n space
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
-        int n = nums.size();
-        if(n == 1) return 1;
         vector<int> sorted;
-        sorted.push_back(nums[0]);
-
-        for(int i=1; i<n; i++){
-            //just bigger element found replace that in sorted
-            auto it = lower_bound(sorted.begin(), sorted.end(), nums[i]);
-            if(it != sorted.end()){
-                *it = nums[i];
-            } 
+        for(int &num:nums){
+            if(sorted.size() == 0){
+                sorted.push_back(num);
+                continue;
+            }
+            auto it  = lower_bound(sorted.begin(), sorted.end(), num);
+            if(it != sorted.end())
+                *it = num;
             else
-                sorted.push_back(nums[i]);
+                sorted.push_back(num);
         }
         return sorted.size();
     }
 };
-// BOTTOM UP
+// time O(n^2) space O(n)
 // class Solution {
 // public:
 //     int lengthOfLIS(vector<int>& nums) {
 //         int n = nums.size();
-//         vector<int> dp(n, 1);
-
 //         int maxLen = 1;
+//         vector<int> t(n, 1);
 //         for(int i=0; i<n; i++){
-//             for(int j = 0; j<i; j++ ){
-//                 if(nums[i] > nums[j]){
-//                     dp[i] = max(dp[i], dp[j]+1);
-//                     maxLen = max(maxLen, dp[i]);
-//                 }
+//             int j = 0;
+//             while(j < i){
+//                 if(nums[j] < nums[i])
+//                     t[i] = max(t[j] + 1, t[i]);
+//                 maxLen = max(maxLen, t[i]);
+//                 j++;
 //             }
 //         }
 //         return maxLen;
 //     }
 // };
-// MEMOIZATION
 //time O(n^2) space O(n^2)
 // class Solution {
 // public:
