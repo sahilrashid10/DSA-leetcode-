@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-select teacher_id, count(*) as cnt
+select distinct teacher_id, count(*) as cnt
 from (select teacher_id, subject_id
 from teacher
 group by teacher_id, subject_id) as sub
