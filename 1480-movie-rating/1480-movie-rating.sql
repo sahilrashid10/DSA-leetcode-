@@ -1,31 +1,43 @@
 # Write your MySQL query statement below
-with user_ratings as (
-    select user_id, count(*) as num_ratings
-    from MovieRating
-    group by user_id
+-- with t1 as( select user_id, count(*) as num_ratings
+-- from MovieRating 
+-- group by user_id
+-- order by num_ratings desc),
+-- t2 as( select name as results from users
+-- where user_id in (select user_id from t1
+-- where num_ratings = (select max(num_ratings) from t1))
+-- order by name asc limit 1),
+
+-- t3 as (select movie_id, avg(rating) as avg_rating
+-- from MovieRating where 
+-- datediff('2020-02-29', created_at) between 0 and 28
+-- group by movie_id
+-- order by avg_rating desc),
+-- t4 as(
+--     select title as results
+--     from movies where 
+--     movie_id in (select movie_id from t3
+--     where avg_rating = (select max(avg_rating) from t3))
+--     order by title asc limit 1
+-- )
+
+-- select * from t2
+-- union all
+-- select * from t4
+
+
+with Most_Rated_User as (SELECT u.name as results from users u
+join MovieRating r using(user_id) 
+group by u.user_id
+order by count(r.rating) desc, name asc limit 1
 ),
-top_user as (
-    select u.name as results
-    from Users u
-    join user_ratings ur on u.user_id = ur.user_id
-    where ur.num_ratings = (select max(num_ratings) from user_ratings)
-    order by u.name asc
-    limit 1
-),
-movie_avg as (
-    select movie_id, avg(rating) as avg_rating
-    from MovieRating
-    where datediff('2020-02-29', created_at) between 0 and 28
-    group by movie_id
-),
-top_movie as (
-    select m.title as results
-    from Movies m
-    join movie_avg ma on m.movie_id = ma.movie_id
-    where ma.avg_rating = (select max(avg_rating) from movie_avg)
-    order by m.title asc
-    limit 1
-)
-select * from top_user
+Highest_Rated_Movie as (select  title as results from movies
+join MovieRating using (movie_id)
+where month(created_at) = '02' and year(created_at) = '2020'
+group by movie_id
+order by avg(rating) desc, title asc 
+limit 1)
+
+select * from Most_Rated_User
 union all
-select * from top_movie;
+select * from Highest_Rated_Movie
