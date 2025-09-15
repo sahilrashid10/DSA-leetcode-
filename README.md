@@ -441,6 +441,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1500-count-largest-group](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1500-count-largest-group) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -506,6 +507,7 @@
 | [1032-satisfiability-of-equality-equations](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1032-satisfiability-of-equality-equations) |
 | [1170-shortest-common-supersequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
