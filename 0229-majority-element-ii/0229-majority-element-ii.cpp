@@ -4,11 +4,11 @@ public:
         int n = nums.size();
         int n1=INT_MAX, n2=INT_MAX, c1=0, c2=0;
         for(int i=0; i<n; i++){
-            if(c1 <= 0 && nums[i] != n2){
+            if(c1 == 0 && nums[i] != n2){
                 n1 = nums[i];
     
             }
-            if(c2 <= 0 && n1 != nums[i]){
+            if(c2 == 0 && n1 != nums[i]){
                 n2 = nums[i];
             }
 
