@@ -173,6 +173,7 @@
 | [0039-combination-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0051-n-queens) |
@@ -348,6 +349,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0075-sort-colors) |
@@ -603,6 +605,7 @@
 | [0039-combination-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0131-palindrome-partitioning) |
