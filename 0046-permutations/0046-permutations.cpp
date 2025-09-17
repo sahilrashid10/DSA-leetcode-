@@ -1,35 +1,19 @@
 class Solution {
 public:
-    vector<vector<int>> result;
-    vector<int> subset;
-    int n;
-    vector<int> used; // using vector instead of unordered_map for O(1) access
-
-    void helper(vector<int>& nums) {
-        // Base case: if current subset size == n, we found a valid permutation
-        if (subset.size() == n) {
-            result.push_back(subset);
+    vector<vector<int>> ans;
+    void solve(vector<int> nums, int idx){
+        if(idx == nums.size()){
+            ans.push_back(nums);
             return;
         }
-
-        for (int i = 0; i < n; i++) {
-            if (used[i] == 0) { // if element is not used
-                used[i] = 1;
-                subset.push_back(nums[i]);
-
-                helper(nums);
-
-                // backtrack
-                used[i] = 0;
-                subset.pop_back();
-            }
+        for(int i = idx; i<nums.size(); i++){
+            swap(nums[i], nums[idx]);
+            solve(nums, idx + 1);
         }
     }
-
     vector<vector<int>> permute(vector<int>& nums) {
-        n = nums.size();
-        used.assign(n, 0); // initialize visited array
-        helper(nums);
-        return result;
+        vector<int> temp;
+        solve(nums, 0);
+        return ans;
     }
 };
