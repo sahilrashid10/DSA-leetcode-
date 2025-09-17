@@ -13,22 +13,14 @@ public:
             preffix = 1ll*preffix*nums[i];
             suffix = 1ll*suffix*nums[n-i-1];
             maxProduct = max({maxProduct, preffix, suffix, nums[i]});
-            if(nums[i] == 0){ 
-                preffix = 1;
-                countZero = 1;
-                continue;
-            }
-            if(nums[n-i-1] == 0){ 
+
+            if(nums[n-i-1] == 0) 
                 suffix = 1;
-                countZero = 1;
-                continue;
-            }
-
-
-        
+            if(nums[i] == 0) 
+                preffix = 1;
         }
 
-        return maxProduct < 0 && countZero == 1 ? 0 : maxProduct;
+        return maxProduct;
     }
 };
 
