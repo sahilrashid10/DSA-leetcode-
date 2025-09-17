@@ -5,12 +5,13 @@ public:
 
         for(int i=1; i<nums.size(); i++){
 
-            if(nums[i] != num) freq--;
-            else freq++;
-
-            if(freq == 0){
-                num = nums[i];
-                freq = 1;
+            if(nums[i] == num) freq++;
+            else{
+                freq--;
+                if(freq == 0){
+                    num = nums[i];
+                    freq = 1;
+                }
             }
 
         }
