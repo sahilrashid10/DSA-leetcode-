@@ -199,6 +199,7 @@
 | [0139-word-break](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0198-house-robber) |
@@ -318,6 +319,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0493-reverse-pairs) |
 | [0907-koko-eating-bananas](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0907-koko-eating-bananas) |
