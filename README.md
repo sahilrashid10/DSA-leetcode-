@@ -123,6 +123,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0213-house-robber-ii) |
@@ -197,6 +198,7 @@
 | [0130-surrounded-regions](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0162-find-peak-element) |
@@ -438,6 +440,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0169-majority-element) |
@@ -503,6 +506,7 @@
 | [0072-edit-distance](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0214-shortest-palindrome) |
@@ -618,6 +622,7 @@
 | [0051-n-queens](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0140-word-break-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0813-all-paths-from-source-to-target) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Memoization
@@ -625,6 +630,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1013-fibonacci-number) |
 ## Binary Indexed Tree
 |  |
@@ -723,6 +729,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Binary Tree
