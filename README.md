@@ -266,6 +266,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -465,6 +466,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -698,6 +700,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Monotonic Stack
