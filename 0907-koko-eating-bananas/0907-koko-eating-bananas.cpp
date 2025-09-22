@@ -1,27 +1,34 @@
 class Solution {
 public:
+    bool canEatAllBananas(vector<int>& piles, int time, int h){
 
-    bool canEatAll(vector<int>& piles, int h, int m){
-        int time_taken=0;
-        for(auto &it: piles){
-            time_taken += it/m;
-            if(it%m != 0)
-                time_taken++;
-            if(time_taken>h)
-                return false;
+        int curTime = 0;
+        for(int &pile:piles){
+            int eaten = pile / time;
+            curTime += eaten;
+            if(pile % time != 0){
+                curTime++;
+            }
+            if(curTime > h) return false;
         }
         return true;
-
     }
     int minEatingSpeed(vector<int>& piles, int h) {
-        int s=1;
-        int e = *max_element(begin(piles), end(piles));
-        while(s<=e){
-            int m = s+(e-s)/2; // preventing overflow
-            if(canEatAll(piles, h, m))
-                e = m-1;
-            else s = m+1;
+        int n = piles.size();
+
+        int minTime = 1;
+        int maxTime = *max_element(piles.begin(), piles.end());
+        int minK = maxTime;
+        while(minTime <= maxTime){
+            int time = minTime + (maxTime - minTime) / 2;
+
+            if(canEatAllBananas(piles, time, h)){
+                maxTime = time - 1;
+                minK = time;
+            }else
+                minTime = time + 1;
         }
-    return s;
+
+        return minK;
     }
 };
