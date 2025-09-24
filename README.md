@@ -349,6 +349,7 @@
 | [0141-linked-list-cycle](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0295-find-median-from-data-stream) |
@@ -420,6 +421,7 @@
 | [0141-linked-list-cycle](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0328-odd-even-linked-list) |
 ## Recursion
@@ -446,6 +448,7 @@
 | [0140-word-break-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
