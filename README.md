@@ -449,6 +449,7 @@
 | [0141-linked-list-cycle](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
@@ -516,6 +517,7 @@
 | [0140-word-break-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0214-shortest-palindrome](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0412-fizz-buzz) |
@@ -567,6 +569,7 @@
 | [0060-permutation-sequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0264-ugly-number-ii) |
