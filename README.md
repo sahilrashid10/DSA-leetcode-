@@ -190,6 +190,7 @@
 | [0073-set-matrix-zeroes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0090-subsets-ii) |
@@ -636,6 +637,7 @@
 | [0046-permutations](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0140-word-break-ii) |
@@ -676,6 +678,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0090-subsets-ii) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Tree
