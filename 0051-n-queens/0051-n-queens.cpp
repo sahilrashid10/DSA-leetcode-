@@ -1,46 +1,51 @@
 class Solution {
 public:
-    vector<vector<string>>ans;
-    bool isSafe(vector<string>&board, int i, int j, int n){
-        int r=j;
-        int c=i;
+    vector<vector<string>> ans;
+    vector<string> board;
+    int N;
+
+    bool canPlace(int row, int col){
+        int r = row;
+        int c = col;
+
+        while(r >=0 && c>=0){
+            if(board[r--][c--] == 'Q') 
+                return false;
+        }
+        r = row;
+        c = col;
+
         while(c>=0){
-            if(board[r][c]=='Q')return false;
-            c--;
+            if(board[r][c--] == 'Q') 
+                return false;
         }
-        r=j;
-        c=i;
-        while(r>=0 && c>=0){
-            if(board[r][c]=='Q') return false;
-            r--;
-            c--;
+        c = col;
+        while(r < N && c>=0){
+            if(board[r++][c--] == 'Q') 
+                return false;
         }
-        r=j;
-        c=i;
-        while(r<n && c>=0){
-            if(board[r][c]=='Q') return false;
-            r++;
-            c--;
-        }
+
         return true;
+
     }
-//* i column, j row
-    void placeQueens(vector<string>&board,int i, int n){
-        if(i==n){
+    void placeQueens(int col){
+        if(col == N){
             ans.push_back(board);
             return;
-        }
-        for(int j=0; j<n; j++){
-            if(isSafe(board,i, j, n)){
-                board[j][i] = 'Q';    
-                placeQueens(board, i+1, n);
-                board[j][i] = '.';
+        } 
+
+        for(int row = 0; row < N; row++){
+            if(canPlace(row, col)){
+                board[row][col] = 'Q';
+                placeQueens(col+1);
+                board[row][col] = '.';
             }
         }
     }
-    vector<vector<string>> solveNQueens(int n){
-    vector<string>board(n,string(n, '.'));
-    placeQueens(board, 0, n);
-    return ans;
+    vector<vector<string>> solveNQueens(int n) {
+        board.assign(n, string(n, '.'));
+        N = n;
+        placeQueens(0);
+        return ans;                                       
     }
-};
+};                   
