@@ -1,52 +1,21 @@
 class Solution {
 public:
-    void getNextGreaterMap(vector<int> &nums2, unordered_map<int, int>&nextGreater){
-        stack<int>s;
+    vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
+        int n = nums2.size();
+        unordered_map<int, int> m;
+        stack<int> s;
 
-        for(int i=nums2.size()-1; i>=0; i--){
-            while(!s.empty() && nums2[i] > nums2[s.top()]){
+        for(int i=n-1; i>=0; i--){
+            while(!s.empty() && s.top() < nums2[i]){
                 s.pop();
             }
-            if(s.empty())
-                nextGreater[nums2[i]] = -1;
-            else 
-                nextGreater[nums2[i]] = nums2[s.top()];
-            s.push(i);
+            m[nums2[i]] = s.empty() ? -1 : s.top();
+            s.push(nums2[i]);
         }
-    }
-    vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        unordered_map<int, int> nextGreater;
-        getNextGreaterMap(nums2, nextGreater);
-
-        vector<int> ans(nums1.size());
-        for(int i=0; i<ans.size(); i++){
-            ans[i] = nextGreater[nums1[i]]; 
-        }
+        vector<int> ans;
+        for(int &num:nums1)
+            ans.push_back(m[num]);
+        
         return ans;
     }
 };
-
-
-// class Solution {
-// public:
-//     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-//         vector<int>ans;
-//         for(int &n1:nums1){
-//             int count = -1;
-//             for(int n2:nums2){
-//                 if(n2 == n1){
-//                     count = 0;
-//                 }
-//                 if(count != -1 && n2 > n1){
-//                     count = n2;
-//                     break;
-//                 }  
-//             }
-//             if(count == 0)
-//                 ans.push_back(-1);
-//             else
-//             ans.push_back(count);
-//         }
-//         return ans;
-//     }
-// };
