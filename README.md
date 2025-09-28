@@ -234,6 +234,7 @@
 | [0948-sort-an-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0967-minimum-falling-path-sum) |
+| [1018-largest-perimeter-triangle](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1025-minimum-cost-for-tickets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1036-rotting-oranges) |
@@ -386,6 +387,7 @@
 | [0611-valid-triangle-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1503-reducing-dishes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1503-reducing-dishes) |
@@ -406,6 +408,7 @@
 | [0135-candy](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0646-maximum-length-of-pair-chain) |
+| [1018-largest-perimeter-triangle](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1018-largest-perimeter-triangle) |
 | [1503-reducing-dishes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1503-reducing-dishes) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -590,6 +593,7 @@
 | [0412-fizz-buzz](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
