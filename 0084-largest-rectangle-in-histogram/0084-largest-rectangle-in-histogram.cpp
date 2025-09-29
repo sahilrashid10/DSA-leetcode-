@@ -1,43 +1,43 @@
 class Solution {
 public:
+    vector<int> leftMin;
+    vector<int> rightMin;
     int n;
-    void NSR(vector<int>& heights, vector<int>&v){
+
+    void getLeftMin(vector<int>& h){
         stack<int> s;
-         for(int i=n-1; i>=0; i--){
-            while(!s.empty() && heights[i] <= heights[s.top()])
+        for(int i=0; i<n; i++){
+            while(!s.empty() && h[s.top()] >= h[i])
                 s.pop();
-            v[i] = !s.empty() ? s.top(): n;
+
+            leftMin[i] = s.empty() ? -1 : s.top();
             s.push(i);
         }
     }
-    void NSL(vector<int>& heights, vector<int>&v){
+    void getRightMin(vector<int>& h){
         stack<int> s;
-         for(int i=0; i<n; i++){
-            while(!s.empty() && heights[i] <= heights[s.top()])
+        for(int i=n-1; i>=0; i--){
+            while(!s.empty() && h[s.top()] >= h[i])
                 s.pop();
 
-            v[i] = !s.empty() ? s.top(): -1;
+            rightMin[i] = s.empty() ? n : s.top();
             s.push(i);
         }
     }
     int largestRectangleArea(vector<int>& heights) {
         n = heights.size();
-        vector<int> nsLeft(n);
-        nsLeft[0] = 0;
-        vector<int> nsRight(n);
+        leftMin.resize(n);
+        rightMin.resize(n);
 
-        NSL(heights, nsLeft);
-        NSR(heights, nsRight);
+        getLeftMin(heights);
+        getRightMin(heights);
 
-        int ans = INT_MIN;
+        int maxArea = 0;
         for(int i=0; i<n; i++){
-            int left = nsLeft[i];
-            int right = nsRight[i];
+            int width = rightMin[i] - leftMin[i] - 1;
 
-            int width = abs(right - left - 1);
-            int area = width * heights[i];
-            ans = max(ans, area); 
+            maxArea = max(maxArea, width * heights[i]);
         }
-        return ans;
+        return maxArea;
     }
 };
