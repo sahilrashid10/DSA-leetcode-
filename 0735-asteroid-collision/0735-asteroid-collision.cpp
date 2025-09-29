@@ -1,28 +1,27 @@
 class Solution {
 public:
-    vector<int> asteroidCollision(vector<int>& asteroids) {
-        int n = asteroids.size();
-        vector<int> finalState;
+    vector<int> asteroidCollision(const vector<int>& asteroids) {
+        vector<int> st;
 
-        for(int i=0; i<n; i++){
-            int pushFactor = 0;
-            while(finalState.size() != 0 && asteroids[i] < 0 && *finalState.rbegin() > 0){
-                    if(abs(asteroids[i]) > *finalState.rbegin())
-                        finalState.pop_back();
-                    else if(abs(asteroids[i]) == *finalState.rbegin()){
-                        finalState.pop_back();
-                        pushFactor = 1;
-                        break;
-                    }else{
-                        pushFactor = 1;
-                        break;
-                    } 
+        for (int a : asteroids) {
+            bool alive = true;
+
+            while (!st.empty() && a < 0 && st.back() > 0) {
+                if (abs(a) > st.back()) {
+                    st.pop_back(); // destroy top, continue checking
+                } else if (abs(a) == st.back()) {
+                    st.pop_back(); // both destroyed
+                    alive = false;
+                    break;
+                } else {
+                    alive = false; // current destroyed
+                    break;
+                }
             }
-            if(pushFactor == 0){
-                finalState.push_back(asteroids[i]);
-            }
+
+            if (alive) st.push_back(a);
         }
-        return finalState;
 
+        return st;
     }
 };
