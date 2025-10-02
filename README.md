@@ -65,6 +65,7 @@
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2121-find-if-path-exists-in-graph) |
+| [3928-split-and-merge-array-transformation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3928-split-and-merge-array-transformation) |
 ## Graph
 |  |
 | ------- |
@@ -283,6 +284,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3748-sort-matrix-by-diagonals) |
 | [3819-count-covered-buildings](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3819-count-covered-buildings) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3928-split-and-merge-array-transformation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3928-split-and-merge-array-transformation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -494,6 +496,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3819-count-covered-buildings](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3819-count-covered-buildings) |
+| [3928-split-and-merge-array-transformation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/3928-split-and-merge-array-transformation) |
 ## Stack
 |  |
 | ------- |
