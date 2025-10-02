@@ -2,21 +2,22 @@ class Solution {
 public:
     int mod = 1e9 + 7;
     int zigZagArrays(int n, int l, int r) {
-        vector<int> dp(r+1, 1);
+        int m=r-l+1;
+        vector<int> dp(m, 1);
 
         for(int i=1; i<n; i++){
             //for odd length in am keeping the sequence increasing
             // by starting with keeping 1 length as increasing
-            vector<int> newDp(r+1, 0);
+            vector<int> newDp(m, 0);
             if(i%2 != 0){
                 int prev = 0;
-                for(int j=l; j<=r; j++){
+                for(int j=0; j<m; j++){
                     newDp[j] = prev;
                     prev = (prev + dp[j]) % mod;
                 }
             }else{
                 int nex = 0;
-                for(int j=r; j>=l; j--){
+                for(int j=m-1; j>=0; j--){
                     newDp[j] = nex;
                     nex = (dp[j] + nex) % mod;
                 }
@@ -24,7 +25,7 @@ public:
             dp = newDp;
         }
         int ans = 0;
-        for(int i=1; i<dp.size(); i++){
+        for(int i=0; i<m; i++){
             int num = dp[i];
             ans = (ans + num) % mod;
         }
