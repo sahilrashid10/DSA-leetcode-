@@ -174,6 +174,7 @@
 | [0011-container-with-most-water](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0039-combination-sum) |
@@ -351,6 +352,7 @@
 | [0011-container-with-most-water](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0061-rotate-list) |
