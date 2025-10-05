@@ -224,6 +224,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0413-arithmetic-slices](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0493-reverse-pairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0493-reverse-pairs) |
@@ -482,6 +483,7 @@
 | [0229-majority-element-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0264-ugly-number-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0496-next-greater-element-i) |
@@ -606,6 +608,7 @@
 | [0264-ugly-number-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1013-fibonacci-number) |
@@ -827,6 +830,7 @@
 | [0225-implement-stack-using-queues](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0937-online-stock-span) |
 ## Iterator
@@ -938,4 +942,8 @@
 | [2087-confirmation-rate](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
