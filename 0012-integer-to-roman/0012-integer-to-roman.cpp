@@ -11,13 +11,10 @@ public:
                     break;
                 }
                 times = num/val[i];
-                
-                //cant use string(times,val[i]), bcz 'ch' is a string vector not char vector
-                //and this fun is limited to char vector or inserting characters only
+        
                 while(times--){
                 roman_num += ch[i];
                 }
-                    // no need to create a temp and sub it,just modulo
                     num %= val[i];
                 }
         return roman_num;
