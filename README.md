@@ -488,6 +488,7 @@
 | [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0496-next-greater-element-i) |
@@ -559,6 +560,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0214-shortest-palindrome](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0433-minimum-genetic-mutation) |
@@ -750,6 +752,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0594-longest-harmonious-subsequence) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
