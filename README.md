@@ -442,6 +442,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0023-merge-k-sorted-lists) |
@@ -459,6 +460,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0060-permutation-sequence) |
@@ -607,6 +609,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0013-roman-to-integer) |
