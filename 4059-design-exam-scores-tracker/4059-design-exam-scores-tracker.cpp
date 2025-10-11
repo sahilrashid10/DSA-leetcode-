@@ -10,10 +10,9 @@ public:
     }
     
     void record(int time, int score) {
-        total_score += score;
 
-        m[time] = total_score;
-
+        auto it = prev(m.upper_bound(time));
+        m[time] = it->second + score;
     }
     
     long long totalScore(int startTime, int endTime) {
