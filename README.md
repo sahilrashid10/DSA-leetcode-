@@ -374,6 +374,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0295-find-median-from-data-stream) |
 | [0611-valid-triangle-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0647-palindromic-substrings) |
@@ -486,6 +487,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
@@ -619,6 +621,7 @@
 | [0070-climbing-stairs](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0279-perfect-squares) |
