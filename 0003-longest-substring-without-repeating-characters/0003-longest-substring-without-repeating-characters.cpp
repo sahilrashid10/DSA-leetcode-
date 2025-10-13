@@ -1,34 +1,21 @@
 class Solution {
 public:
-    int lengthOfLongestSubstring(string s) {
-        if(s.size() == 1) return 1;
+    int lengthOfLongestSubstring(string &s) {
+        unordered_map<char, int>m;
         int maxLen = 0;
-        vector<int> v(256, -1);
-        int i = 0, j = 0;
-        for(j=0; j<s.size(); j++){
-            if(v[s[j]] != -1 && v[s[j]] >= i){
-                i = v[s[j]] + 1;
+        if(s.size() == 0) return maxLen;
+        int i = 0;
+        for(int j=0; j<s.size(); j++){
+            char c = s[j];
+            m[c]++;
+            while(m[c] > 1){
+                m[s[i]]--;
+                if(m[s[i]] == 0)
+                    m.erase(m[s[i]]);
+                i++;
             }
             maxLen = max(maxLen, j - i + 1);
-            v[s[j]] = j;
         }
         return maxLen;
     }
 };
-// class Solution {
-// public:
-//     int lengthOfLongestSubstring(string s) {
-//         int maxLen = 0;
-//         for(int i=0; i<s.size(); i++){
-//             vector<int> v(256, 0);
-//             string st = "";
-//             for(int j=i; j<s.size(); j++){
-//                 if(v[s[j]] == 1) break;
-//                 st.push_back(s[j]);
-//                 v[s[j]] = 1;
-//             }
-//             maxLen = max(maxLen, int(st.size()));
-//         }
-//         return maxLen;
-//     }
-// };
