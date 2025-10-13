@@ -136,6 +136,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0516-longest-palindromic-subsequence) |
@@ -378,6 +379,7 @@
 | [0189-rotate-array](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -571,6 +573,7 @@
 | [0214-shortest-palindrome](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/sahilrashid10/DSA-leetcode-/tree/master/0433-minimum-genetic-mutation) |
