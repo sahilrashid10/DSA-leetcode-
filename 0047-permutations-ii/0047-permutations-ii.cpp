@@ -1,33 +1,67 @@
+
+
 class Solution {
 public:
-    vector<vector<int>> ans;
-    vector<int> path;
-    vector<int> vis;
+    vector<vector<int>> result;
+    int n;
 
-    void backtrack(vector<int>& nums) {
-        if (path.size() == nums.size()) {
-            ans.push_back(path);
+    void getPermutations(vector<int> &nums, int i){
+        if(i == n){
+            result.push_back(nums);
             return;
         }
-        for (int i = 0; i < nums.size(); i++) {
-            // skip used elements
-            if (vis[i]) continue;
 
-            // skip duplicates: if nums[i] == nums[i-1] and previous one not used, skip
-            if (i > 0 && nums[i] == nums[i-1] && !vis[i-1]) continue;
+        unordered_set<int> s;
+        for(int j = i; j<n; j++){
+            if(s.count(nums[j]) > 0) continue;
 
-            vis[i] = 1;
-            path.push_back(nums[i]);
-            backtrack(nums);
-            path.pop_back();
-            vis[i] = 0;
+            s.insert(nums[j]);
+            swap(nums[j], nums[i]);
+
+            getPermutations(nums, i+1);
+            swap(nums[j], nums[i]);
+
         }
+        return;
     }
-
     vector<vector<int>> permuteUnique(vector<int>& nums) {
-        sort(nums.begin(), nums.end());   // ensure duplicates are adjacent
-        vis.assign(nums.size(), 0);
-        backtrack(nums);
-        return ans;
+        n = nums.size();
+        sort(nums.begin(), nums.end());
+        getPermutations(nums, 0);
+        return result;
     }
 };
+// T(n) ≈ O(n × n! × log (n!)) ≈ O(n² × n! × log n)
+// S(n)=O(n) (recursion)+O(n×n!) (output)=O(n×n!) + n*n
+
+// class Solution {
+// public:
+//     vector<vector<int>> result;
+//     map<vector<int>, int> m;
+//     int n;
+
+//     void getPermutations(vector<int> &nums, int i){
+//         if(i == n){
+//             if(m.count(nums) < 1) {
+//                 result.push_back(nums);
+//                 m[nums] = 1;
+//             }
+//             return;
+//         }
+
+//         for(int j = i; j<n; j++){
+//             swap(nums[j], nums[i]);
+//             getPermutations(nums, i+1);
+//             swap(nums[j], nums[i]);
+
+//         }
+//         return;
+//     }
+//     vector<vector<int>> permuteUnique(vector<int>& nums) {
+//         n = nums.size();
+//         sort(nums.begin(), nums.end());
+//         getPermutations(nums, 0);
+//         cout<<m[{2, 3}];
+//         return result;
+//     }
+// };
