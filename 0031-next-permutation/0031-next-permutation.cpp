@@ -2,23 +2,26 @@ class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
         int n = nums.size();
+        if(n == 1) return;
 
-        // 1. Find the first index 'i' from the right such that nums[i] < nums[i+1]
-        int i = n - 2;
-        while (i >= 0 && nums[i] >= nums[i + 1]) {
-            i--;
-        }
-
-        // 2. If such an index is found, find the element just larger than nums[i] from the right
-        if (i >= 0) {
-            int j = n - 1;
-            while (nums[j] <= nums[i]) {
-                j--;
+        for(int i = n-2; i>=0; i--){
+            if(nums[i] < nums[i+1]){
+            auto it = upper_bound(nums.rbegin(), nums.rbegin() + (n - i - 1), nums[i]);
+            
+            // Convert reverse_iterator to normal iterator
+            int j = n - 1 - (it - nums.rbegin());
+                swap(nums[i], nums[j]);
+                sort(nums.begin() + i + 1, nums.end());
+                return;
             }
-            swap(nums[i], nums[j]);
         }
 
-        // 3. Reverse the suffix starting at i+1
-        reverse(nums.begin() + i + 1, nums.end());
+        sort(nums.begin(), nums.end());
+        return;
+
     }
 };
+
+
+//Solution 1:  Generate all and if size full then return sorted version
+//else return next in the stored array, time and space (perm 1, 2) on leetcode
