@@ -1,21 +1,21 @@
 class Solution {
 public:
     int findMin(vector<int>& nums) {
-        int minValue = INT_MAX;
-        int n = nums.size();
-        int s = 0, e = n-1;
+        int s = 0;
+        int e = nums.size() - 1;
 
+        int mini = INT_MAX;
         while(s <= e){
-            int m = s + (m-s)/2;
+            int m = s + (e - s)/2;
 
             if(nums[s] <= nums[m]){
-                minValue = min(minValue, nums[s]);
-                s = m+1;
+                mini = min(mini, nums[s]);
+                s = m + 1;
             }else{
-                minValue = min(minValue, nums[m]);
+                mini = min(mini, nums[m]);
                 e = m - 1;
             }
         }
-        return minValue;
+        return mini;
     }
 };
