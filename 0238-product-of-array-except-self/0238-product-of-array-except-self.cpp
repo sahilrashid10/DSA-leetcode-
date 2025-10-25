@@ -1,34 +1,40 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        vector<int> ans(nums.size());   // suffix-product
-        ans[nums.size() - 1] = 1;
-        for(int i=nums.size()-2; i>=0; i--){
-            ans[i] = ans[i+1]*nums[i+1];
+        int n = nums.size();
+        if(n==1) return {0};
+
+        vector<int> prefix(n, 0);
+        prefix[0] = 1;
+        for(int i=1; i<n; i++){
+            prefix[i] = prefix[i-1] * nums[i-1];
         }
-        int p=1;
-        for(int i=0; i<nums.size(); i++){
-            ans[i] = p*ans[i];
-            p *= nums[i]; 
+
+        int suffix = 1;
+        for(int i=n-1; i>=0; i--){
+            prefix[i] = suffix * prefix[i];
+            suffix *= nums[i];
         }
-        return ans;
+        return prefix;
     }
 };
 // class Solution {
 // public:
 //     vector<int> productExceptSelf(vector<int>& nums) {
-//         int p = 1, z=0;
-//         vector<int> ans(nums.size(), 0);
-//         for(int &i : nums){
-//             if(i == 0 && z < 2) z++;
-//             else
-//                 p *= i;
-//             if(z == 2)
-//                 return ans;
+//         int n = nums.size();
+//         if(n==1) return {0};
+
+//         vector<int> ans(n, 0);
+//         vector<int> prefix(n+1);
+//         prefix[0] = 1;
+//         for(int i=1; i<=n; i++){
+//             prefix[i] = prefix[i-1] * nums[i-1];
 //         }
-//         for(int i = 0; i<nums.size(); i++){
-//             if(nums[i] == 0) ans[i] = p;
-//             if(z == 0) ans[i] = p/nums[i];
+
+//         int suffix = 1;
+//         for(int i=n-1; i>=0; i--){
+//             ans[i] = suffix * prefix[i];
+//             suffix *= nums[i];
 //         }
 //         return ans;
 //     }
