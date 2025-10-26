@@ -24,11 +24,11 @@ public:
             reverse(s.begin() + k, s.begin() + j);
 
             // add a single space after the word
-            if (j < n) s[j++] = ' ';
+            s[j++] = ' ';
         }
 
         // remove trailing spaces
-        if (j > 0 && s[j-1] == ' ') j--;
+        if (s[j-1] == ' ') j--;
         s.erase(s.begin() + j, s.end());
 
         return s;
